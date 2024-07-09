@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47227757302",
+    "project_id": "oceanic-class-schedule-11812",
+    "storage_bucket": "oceanic-class-schedule-11812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47227757302:android:598a452e7135f36aee42d7",
+        "android_client_info": {
+          "package_name": "com.erost.oceanicTeachers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL-aM4ZpiLSg9EChbL1acCxFvU48KDEP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
