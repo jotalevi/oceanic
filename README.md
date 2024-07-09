@@ -1,16 +1,18 @@
-# oceanic_teachers
+<img src="https://raw.githubusercontent.com/jotalevi/oceanic/main/assets/teachers_icon.png" alt="drawing" width="100"/>
 
-A new Flutter project.
+# Oceanic Schedule APP
 
-## Getting Started
+A easy schedule app for keeping track of your college stuff.
+Runs on iOS & Android (It's flutter so it runs on anything TBH).
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Daily resume
+- Create Sessions, Classes, and Events
+- See your weekly schedule
+- Keep track of your college events
+- Share your sessions with your classmates
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<a href=""> <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="OPEN ON APPLE APPSTORE" width="100px"/> </a>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>DEL</kbd>
