@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-# Tabla de Contenido Proyecto Django
+# Tabla de Contenido
 - [Requerimientos](#requerimientos)
 - [Instalación](#instalación)
 - [Tech Stack](#tech-stack)
@@ -49,11 +49,11 @@ flutter build ipa
 
 ## 🛠 &nbsp;Tech Stack
 
-![Flutter](https://img.shields.io/badge/flutter?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Flutter](https://img.shields.io/badge/flutter.svg)&nbsp;
 ![Dart](https://img.shields.io/badge/dart?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Swift](https://img.shields.io/badge/swift?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![Kotlin](https://img.shields.io/badge/kotlin?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/kotlin-1.4.31-orange)&nbsp;
 
 
 ## 🧰 &nbsp;Version Controll & Tools 
@@ -63,7 +63,4 @@ flutter build ipa
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 ## Autores
-
 [<sub>Eros Talevi</sub>](https://github.com/jotalevi)
-<br/>
-Licensed under MIT. jul 2024.
