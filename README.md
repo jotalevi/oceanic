@@ -48,12 +48,11 @@ flutter build ipa
 ```
 
 ## 🛠 &nbsp;Tech Stack
-
-![Flutter](https://img.shields.io/badge/flutter.svg)&nbsp;
-![Dart](https://img.shields.io/badge/dart?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Firebase](https://img.shields.io/badge/firebase?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![Swift](https://img.shields.io/badge/swift?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![Kotlin](https://img.shields.io/badge/kotlin-1.4.31-orange)&nbsp;
+![Swift](https://img.shields.io/badge/flutter-blue)&nbsp;
+![Swift](https://img.shields.io/badge/dart-blue)&nbsp;
+![Swift](https://img.shields.io/badge/firebase-blue)&nbsp;
+![Swift](https://img.shields.io/badge/swift-orange)&nbsp;
+![Kotlin](https://img.shields.io/badge/kotlin-orange)&nbsp;
 
 
 ## 🧰 &nbsp;Version Controll & Tools 
