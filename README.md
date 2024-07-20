@@ -40,17 +40,17 @@ flutter build ipa
 ```
 
 ## 🛠 &nbsp;Tech Stack
-![Swift](https://img.shields.io/badge/flutter-blue)&nbsp;
-![Swift](https://img.shields.io/badge/dart-blue)&nbsp;
-![Swift](https://img.shields.io/badge/firebase-blue)&nbsp;
-![Swift](https://img.shields.io/badge/swift-orange)&nbsp;
+![Swift](https://img.shields.io/badge/flutter-blue)&nbsp; <br/>
+![Swift](https://img.shields.io/badge/dart-blue)&nbsp; <br/>
+![Swift](https://img.shields.io/badge/firebase-blue)&nbsp; <br/>
+![Swift](https://img.shields.io/badge/swift-orange)&nbsp; <br/>
 ![Kotlin](https://img.shields.io/badge/kotlin-orange)&nbsp;
 
 
 ## 🧰 &nbsp;Version Controll & Tools 
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp; <br/>
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp; <br/>
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 ## Autores
