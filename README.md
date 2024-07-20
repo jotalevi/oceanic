@@ -1,14 +1,6 @@
-<h1 align="center">Tienda Tecnológica</h1>
-
-<p><img align="right" height="250" width="250" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
-
 &emsp;
 <h3 align="left">Bienvenido a OCEANIC 👋</h3>
 &emsp;
-<br/>
-<br/>
-<br/>
-<br/>
 
 # Tabla de Contenido
 - [Requerimientos](#requerimientos)
